@@ -1,2 +1,3 @@
 # Hello-world1
-just another repository
+
+FThere is no royal road to learning
